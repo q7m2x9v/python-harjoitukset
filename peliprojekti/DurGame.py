@@ -19,8 +19,7 @@ def lisää_tavara():
 #Kysytään nimi ja ikä
 nimi = input("Anna nimi: ")
 ikä = int(input("Anna ikä: "))
-print("Pelaajan nimi:", nimi)
-print("Pelaajan ikä:", ikä)
+
 
 #Ikäraja ja päävalikko
 if ikä < 12:
