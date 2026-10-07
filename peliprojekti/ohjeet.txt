@@ -1,0 +1,34 @@
+OHJEET
+
+Valitse toiminto kirjoittamalla numero ja painamalla Enter.
+
+Paikat: Satama - Ranta - Järvi.
+Kulje aina viereiseen paikkaan.
+
+KALASTUSREITTI:
+Kerää onki järveltä.
+Kerää roskia, kunnes niitä on jäljellä alle 5.
+Kalasta ja myy kalat satamassa.
+Ahven = 5 euroa, hauki = 10 euroa, kuha = 15 euroa.
+
+YMPÄRISTÖNSUOJELUREITTI:
+Kerää järveltä kaikki 10 roskaa.
+Lunasta satamassa 10 euroa jokaisesta kerätystä roskasta.
+Voit lunastaa palkkiot myös osissa.
+
+TUTKIMUSREITTI:
+Kerää tutkimusväline rannalta.
+Tee tutkimus satamassa, rannalla ja järvellä.
+Lunasta satamassa 100 euron tutkimuspalkkio.
+
+Reittejä voi myös yhdistellä.
+Kun sinulla on 100 euroa, korjaa vene satamassa.
+
+Pelin aikana valinta 11 tallentaa.
+Valinta 0 tallentaa ja palaa aloitusvalikkoon.
+Jatka myöhemmin valitsemalla Jatka tallennusta.
+Käytössä on yksi tallennuspaikka.
+
+Kestävä kehitys: YK:n tavoite 14, Vedenalainen elämä.
+Roskat estävät kalastamisen. Siivoaminen auttaa vesistöä.
+Roskaraja ja palkkiot ovat yksinkertaistettuja pelisääntöjä.
