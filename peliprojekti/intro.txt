@@ -1,8 +1,7 @@
-PELASTA VENE
+SAVEYOURBOAT
 
-Veneesi on hajonnut. Korjaaminen maksaa 100 euroa.
-Voit hankkia rahat kalastamalla, keräämällä roskia
-tai tekemällä ympäristötutkimusta.
-
-Aloitat satamasta. Rannan kautta pääset järvelle.
-Järvi laskee mereen, joten sen puhtaus vaikuttaa myös mereen.
+Olet kalastaja, jonka vene on hajonnut. Korjaus maksaa 100 euroa.
+Aloitat satamasta. Rannan kautta pääset läheisen järven luo.
+Järvi laskee mereen, joten sen roskat haittaavat myös meriympäristöä.
+Voit hankkia korjausrahat kalastamalla, siivoamalla tai tutkimalla.
+Kerää rahat, palaa satamaan ja korjaa vene päästäksesi saaristoon!
