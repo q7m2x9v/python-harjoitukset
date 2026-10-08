@@ -2,8 +2,7 @@
 
 Tekijä: Durim Beqiri
 
-Yksinkertainen suomenkielinen Python-tekstiseikkailu. Pelaajan vene on
-hajonnut. Tavoitteena on ansaita 100 euroa ja korjata vene satamassa.
+Pelaajan vene on hajonnut. Tavoitteena on ansaita 100 euroa ja korjata vene satamassa.
 
 
 ## Toimintaperiaatteet ja kolme reittiä

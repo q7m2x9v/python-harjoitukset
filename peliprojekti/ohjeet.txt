@@ -1,11 +1,5 @@
 OHJEET
 
-Valitse toiminnot kirjoittamalla valikon numero ja painamalla Enter.
-Reitti on Satama - Ranta - Järvi. Liiku aina viereiseen paikkaan.
-Tutki paikkaa saadaksesi vihjeen. Kerää esine ottaa esineen mukaasi.
-Kirjoita pyydettäessä näkyvän esineen nimi, jotta se lisätään tavaroihisi.
-Pelin ikäraja on 12 vuotta.
-
 KALASTUS: Kerää järveltä onki. Aluksi roskia on 10.
 Kalastus onnistuu vasta, kun roskia on alle 5: siivoa vähintään 6.
 Ahvenesta saa 5, hauesta 10 ja kuhasta 15 euroa. Myy kalat satamassa.
@@ -13,7 +7,6 @@ Pelkillä kalojen myyntituloilla voi kerätä 100 euroa.
 
 YMPÄRISTÖNSUOJELU: Kerää järveltä 10 roskaa. Satamassa saat
 Lunasta palkkiot -toiminnolla 10 euroa jokaisesta roskasta.
-Voit lunastaa myös osan palkkiosta matkan varrella.
 
 TUTKIMUS: Kerää rannalta tutkimusväline. Tee ympäristötutkimus
 kerran satamassa, rannalla ja järvellä. Lunasta satamassa 100 euroa.
@@ -22,12 +15,5 @@ Tutkimus ei vaadi kalastamista tai siivoamista. Palkkio maksetaan kerran.
 Voit yhdistellä reittejä. Kun rahaa on vähintään 100 euroa,
 valitse satamassa Korjaa vene. Se päättää pelin voittoon.
 
-Tallenna peli tallentaa tilanteen. Pelivalikon 0 tallentaa ja palaa
-aloitusvalikkoon. Valitse myöhemmin Jatka tallennusta.
-Käytössä on yksi tallennuspaikka. Uuden pelin tallentaminen korvaa sen.
-Voitto tallennetaan automaattisesti. Äkillinen sulkeminen ei tallenna.
-Komento lopeta tallentaa ja sulkee pelin suoraan pelivalikosta.
 
-YK:n kestävän kehityksen tavoite 14: Vedenalainen elämä.
-Roskat estävät kalastamisen. Siivoamalla autat vesistön eliöitä.
-Pelin roska-arvot ja palkkiot ovat yksinkertaistettuja pelisääntöjä.
+
