@@ -1,12 +1,8 @@
 # Saveyourboat
-
-Tekijä: Durim Beqiri
-
 Pelaajan vene on hajonnut. Tavoitteena on ansaita 100 euroa ja korjata vene satamassa.
 
 
-## Toimintaperiaatteet ja kolme reittiä
-
+# Toimintaperiaatteet ja kolme reittiä
 Paikat ovat Satama, Ranta ja Järvi. Satamasta kuljetaan rannan kautta
 järvelle. Rannalta saa tutkimusvälineen ja järveltä ongen.
 
@@ -22,8 +18,7 @@ järvelle. Rannalta saa tutkimusvälineen ja järveltä ongen.
 Kaikki reitit päättyvät valintaan **Korjaa vene** satamassa. Myös reittien
 yhdistäminen onnistuu. Rahaa ei kulu muihin toimintoihin.
 
-## Ominaisuudet ja tallennus
-
+# Ominaisuudet ja tallennus
 - Nimi ja ikä, aloitusvalikko ja funktiolla toteutettu pelin päävalikko.
 - Liikkuminen, paikkojen tutkiminen, esineiden kerääminen ja tavaralista.
 - Kalastus, saalislista, myynti, siivous, tutkimukset ja kertaluonteiset palkkiot.
@@ -36,20 +31,17 @@ Tallennuksessa säilyvät nimi, ikä, sijainti, raha, esineet, saalis, roskat,
 jo palkitut roskat, tutkitut paikat, tutkimuspalkkio ja veneen korjaus.
 Latauksessa kerätyt esineet poistetaan alkuperäisistä paikoistaan.
 Tallennuspaikkoja on yksi. Uusi tallennus korvaa vanhan. Sulje peli
-valikkojen kautta, jotta edistyminen tallentuu. Pelikansion pitää olla
-kirjoitettavissa. JSON-tiedostoa ei tarvitse muokata käsin.
+valikkojen kautta, jotta edistyminen tallentuu. JSON-tiedostoa ei tarvitse muokata käsin.
 
-## Kestävyysnäkökulma
-
+# Kestävyysnäkökulma
 Peli käsittelee YK:n kestävän kehityksen tavoitetta 14, Vedenalaista elämää.
 Tarinan järvi laskee mereen. Roskat vaikuttavat suoraan peliin: jos niitä
 on vähintään 5, kalastaminen ei onnistu. Siivous palauttaa mahdollisuuden
 kalastaa. Tutkimusreitti kiinnittää huomiota veneilyyn ja roskien kulkuun.
-Pelissä voi voittaa myös pyytämättä yhtään kalaa. Roskaraja, loputtomasti
-saatavat kalat ja palkkiot ovat pelin yksinkertaistuksia.
+Pelissä voi voittaa myös pyytämättä yhtään kalaa. 
 
-## Projektirakenne
 
+# Projektirakenne
 ```text
 peliprojekti/
     main.py          Käynnistys, syötteet ja valikot
